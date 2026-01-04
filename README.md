@@ -18,14 +18,9 @@ The goal of this repository is to strengthen problem-solving skills and build a 
 
 DSA-Solutions/
 ├── arrays/
-├── strings/
-├── searching/
-├── sorting/
 ├── stacks/
-├── queues/
 ├── linked_lists/
 ├── trees/
-├── recursion/
 └── README.md
 
 yaml
